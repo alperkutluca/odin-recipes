@@ -1,3 +1,3 @@
 # odin-recipes
 I'm at %41 on Theodinproject foundation level and keep learning!.
-Did the Recipe assignment!
+<p>Did the Recipe assignment!</p>
